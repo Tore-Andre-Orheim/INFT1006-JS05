@@ -1,5 +1,4 @@
 {
-  "fylke": {
     "Akershus": {
       "fjell": "Fjellsjøkampen",
       "høgde": "812"
@@ -76,5 +75,4 @@
       "fjell": "Øksfjordjøkelen",
       "høgde": "1191"
     }
-  }
 }
