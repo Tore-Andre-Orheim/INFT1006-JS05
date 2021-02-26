@@ -1,78 +1,97 @@
-{
-    "Akershus": {
-      "fjell": "Fjellsjøkampen",
-      "høgde": "812"
-    },
-    "Buskerud": {
-      "fjell": "Folarskardnuten",
-      "høgde": "1933"
-    },
-    "Oppland": {
-      "fjell": "Galdhøpiggen",
-      "høgde": "2469"
-    },
-    "Telemark": {
-      "fjell": "Gaustatoppen",
-      "høgde": "1883"
-    },
-    "Hordaland": {
-      "fjell": "Hardangerjøkulen",
-      "høgde": "1861"
-    },
-    "Nord-Trøndelag": {
-      "fjell": "Jetnamsklumpen",
-      "høgde": "1512"
-    },
-    "Troms": {
-      "fjell": "Jiehkkevárri",
-      "høgde": "1834"
-    },
-    "Oslo": {
-      "fjell": "Kjerkeberget",
-      "høgde": "630"
-    },
-    "Nordland": {
-      "fjell": "Oksskolten",
-      "høgde": "1915"
-    },
-    "Møre og Romsdal": {
-      "fjell": "Pyttegga",
-      "høgde": "1999"
-    },
-    "Hedmark": {
-      "fjell": "Rondslottet",
-      "høgde": "2178"
-    },
-    "Østfold": {
-      "fjell": "Slavasshøgda",
-      "høgde": "336"
-    },
-    "Sogn og Fjordane": {
-      "fjell": "Store Skagstølstinden",
-      "høgde": "2405"
-    },
-    "Sør-Trøndelag": {
-      "fjell": "Storskrymten",
-      "høgde": "1985"
-    },
-    "Aust-Agder": {
-      "fjell": "Sæbyggjenuten",
-      "høgde": "1507"
-    },
-    "Vest-Agder": {
-      "fjell": "Urdalsknuten",
-      "høgde": "1433"
-    },
-    "Rogaland": {
-      "fjell": "Vassdalseggi",
-      "høgde": "1658"
-    },
-    "Vestfold": {
-      "fjell": "Vestfjellet",
-      "høgde": "634"
-    },
-    "Finnmark": {
-      "fjell": "Øksfjordjøkelen",
-      "høgde": "1191"
-    }
-}
+[
+  {
+    "fylke": "Akershus",
+    "fjell": "Fjellsjøkampen",
+    "høgde": "812"
+  },
+  {
+    "fylke": "Buskerud",
+    "fjell": "Folarskardnuten",
+    "høgde": "1933"
+  },
+  {
+    "fylke": "Oppland",
+    "fjell": "Galdhøpiggen",
+    "høgde": "2469"
+  },
+  {
+    "fylke": "Telemark",
+    "fjell": "Gaustatoppen",
+    "høgde": "1883"
+  },
+  {
+    "fylke": "Hordaland",
+    "fjell": "Hardangerjøkulen",
+    "høgde": "1861"
+  },
+  {
+    "fylke": "Nord-Trøndelag",
+    "fjell": "Jetnamsklumpen",
+    "høgde": "1512"
+  },
+  {
+    "fylke": "Troms",
+    "fjell": "Jiehkkevárri",
+    "høgde": "1834"
+  },
+  {
+    "fylke": "Oslo",
+    "fjell": "Kjerkeberget",
+    "høgde": "630"
+  },
+  {
+    "fylke": "Nordland",
+    "fjell": "Oksskolten",
+    "høgde": "1915"
+  },
+  {
+    "fylke": "Møre og Romsdal",
+    "fjell": "Pyttegga",
+    "høgde": "1999"
+  },
+  {
+    "fylke": "Hedmark",
+    "fjell": "Rondslottet",
+    "høgde": "2178"
+  },
+  {
+    "fylke": "Østfold",
+    "fjell": "Slavasshøgda",
+    "høgde": "336"
+  },
+  {
+    "fylke": "Sogn og Fjordane",
+    "fjell": "Store Skagstølstinden",
+    "høgde": "2405"
+  },
+  {
+    "fylke": "Sør-Trøndelag",
+    "fjell": "Storskrymten",
+    "høgde": "1985"
+  },
+  {
+    "fylke": "Aust-Agder",
+    "fjell": "Sæbyggjenuten",
+    "høgde": "1507"
+  },
+  {
+    "fylke": "Vest-Agder",
+    "fjell": "Urdalsknuten",
+    "høgde": "1433"
+  },
+  {
+    "fylke": "Rogaland",
+    "fjell": "Vassdalseggi",
+    "høgde": "1658"
+  },
+  {
+    "fylke": "Vestfold",
+    "fjell": "Vestfjellet",
+    "høgde": "634"
+  },
+  {
+    "fylke": "Finnmark",
+    "fjell": "Øksfjordjøkelen",
+    "høgde": "1191"
+  }
+]
